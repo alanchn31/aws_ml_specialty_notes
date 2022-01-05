@@ -1,6 +1,6 @@
-# AWS Certified Machine Learning Specialty 2022 Notes
+# AWS Certified Machine Learning Specialty Notes
 
-This repo contains the notes I have taken in preparation for the AWS Machine Learning Specialty Certification 2022.
+This repo contains the notes I have taken in preparation for the AWS Machine Learning Specialty Certification.
 My preparations are still ongoing hence this repo will be updated along the way
 
 4 main modules in the exam:
