@@ -8,3 +8,6 @@ My preparations are still ongoing hence this repo will be updated along the way
 2. Exploratory Data Analysis
 3. Modelling
 4. MLOps
+
+Link to the exam syllabus page:
+https://d1.awsstatic.com/training-and-certification/docs-ml/AWS-Certified-Machine-Learning-Specialty_Exam-Guide.pdf
