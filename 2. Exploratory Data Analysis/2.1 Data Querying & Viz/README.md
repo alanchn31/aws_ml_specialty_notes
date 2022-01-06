@@ -11,7 +11,7 @@
 		* AVRO (splittable)
 Data can be structure, unstructured, semi-structured
 
-## 1.Data Viz using AWS Quicksight
+## 2.Data Viz using AWS Quicksight
 * Use case
 	* For ad-hoc queries, analysis and visualizations, not for highly formatted reports
 * SPICE (Super Parallel In-memory Calculation Engine)
